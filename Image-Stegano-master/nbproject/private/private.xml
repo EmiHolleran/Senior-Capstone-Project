@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/Image-Stegano-master/src/imagestegano/TextFileFilter.java</file>
+            <file>file:/G:/Image-Stegano-master/src/steganography/BitPlane.java</file>
+            <file>file:/G:/Image-Stegano-master/src/imagestegano/ImageStegano.java</file>
+            <file>file:/G:/Image-Stegano-master/src/steganography/PNGCheck.java</file>
+            <file>file:/G:/Image-Stegano-master/src/imagestegano/ImageFileFilter.java</file>
+            <file>file:/G:/Image-Stegano-master/src/steganography/LSBEncoding.java</file>
+            <file>file:/G:/Image-Stegano-master/src/imagestegano/HideText.java</file>
+            <file>file:/G:/Image-Stegano-master/src/steganography/ColourMap.java</file>
+            <file>file:/G:/Image-Stegano-master/src/steganography/ImageManipulation.java</file>
+            <file>file:/G:/Image-Stegano-master/src/steganography/BitwiseXOR.java</file>
+        </group>
+    </open-files>
+</project-private>
